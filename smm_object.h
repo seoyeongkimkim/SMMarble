@@ -40,6 +40,7 @@ typedef enum smmObjGrade{
 
 
 
+
 /* node type :
     lecture,
     restaurant,
