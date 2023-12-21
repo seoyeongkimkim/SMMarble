@@ -18,6 +18,7 @@
 
 #define SMMNODE_TYPE_MAX                 7
 
+
 typedef enum smmObjType{
 	smmObjType_board=0,
 	smmObjType_card,
@@ -35,6 +36,7 @@ typedef enum smmObjGrade{
 	smmObjGrade_C0,
 	smmObjGrade_Cm
 }smmObjGrade_e;
+
 
 
 
